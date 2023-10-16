@@ -964,3 +964,34 @@ section.third-section {
  .forthwith-section-part ul {
     list-style: none;
  }
+
+ .progress-1 {
+    width: 100%;
+    background: aliceblue;
+    height: 30px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+ }
+
+ .progress-1-1 {
+    width: 50%;
+    height: 30px;
+    background: blue;
+    border-radius: 30px;
+    text-align: center;
+    color: white;
+ }
+
+ .progress-1-2 {
+    width: 30%;
+    height: 30px;
+    background: blue;
+    border-radius: 30px;
+    text-align: center;
+    color: white;
+ }
+
+ progress {
+    width: 100%;
+    height: 30px;
+ }
